@@ -51,7 +51,7 @@ const Login = () => {
               improving customer service, Prescribing Smart Solutions to real
               life business challenges
             </CCardText>
-            <div className="buttons">
+            <div className="d-flex justify-content-evenly">
               <CButton align="start" color="dark" href="/api/auth/login">
                 Login
               </CButton>
