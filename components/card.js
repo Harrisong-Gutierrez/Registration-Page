@@ -12,7 +12,7 @@ import React from "react";
 
 const Card = () => {
   const { user } = useUser();
-  console.log("This is my User", user);
+
   return (
     <CCard style={{ width: "18rem" }}>
       <CCardImage

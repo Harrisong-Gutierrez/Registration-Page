@@ -55,13 +55,13 @@ const Login = () => {
               <CButton align="start" color="dark" href="/api/auth/login">
                 Login
               </CButton>
-              <CButton
+              {/* <CButton
                 align="end"
                 color="dark"
-                href="https://dev-13fvzukvgc3empff.us.auth0.com/u/signup?state=hKFo2SB3TnJUREs4LXBCWW85NFBhTUw1a1UzYzdiSkRYaUpBWaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEY1SlQxdm93OE9rV1R6SjUwMXRnU0NiTllwYUNndklfo2NpZNkgVEpOZHp1bVg3TjE3RTNkNzNHdmFldjIxVUQ1T1R5cUQ"
+                href="https://dev-13fvzukvgc3empff.us.auth0.com/u/signup"
               >
                 Sign Up
-              </CButton>
+              </CButton> */}
             </div>
           </CCardBody>
         </CCard>
